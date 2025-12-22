@@ -1,0 +1,6 @@
+../Core/Src/PCA9685.c:24:6:PCA9685_SetBit	40	static
+../Core/Src/PCA9685.c:35:6:PCA9685_SetPWMFrequency	40	static
+../Core/Src/PCA9685.c:51:6:PCA9685_Init	16	static
+../Core/Src/PCA9685.c:57:6:PCA9685_SetPWM	40	static
+../Core/Src/PCA9685.c:70:6:PCA9685_SetServoAngle	24	static
+../Core/Src/PCA9685.c:81:6:process	24	static
